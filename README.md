@@ -10,7 +10,9 @@ This is the term project for the Antennas course, an UWB microstrip patch antenn
 
 The [pdf file](https://github.com/kantarcise/Ultrawide-Band-Antenna-Design/blob/master/Project.pdf) contains the report.
 
-HFSS is fun =)
+The project file for HFSS can be found [here.]()
+
+HFSS is fun, just a bit scary to learn at first =)
 
 
 ## Introduction
@@ -28,6 +30,11 @@ But boy i was wrong.
 
 
 ## Results and Future Work
+
+Well the result for the designed project is just literally wrong. That is not an Ultra wide Band antenna. It is a really good antenna in 
+terms of gain, but not wide band.
+
+
 
 ## References
 
