@@ -34,7 +34,7 @@ But boy i was wrong.
 Well the result for the designed project is just literally wrong. That is not an Ultra wide Band antenna. It is a really good antenna in 
 terms of gain, but not wide band.
 
-
+On a bright side, like reported in results part, with some tweaks on ground; we can make it a little bit wider band antenna.
 
 ## References
 
