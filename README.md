@@ -10,7 +10,7 @@ This is the term project for the Antennas course, an UWB microstrip patch antenn
 
 The [pdf file](https://github.com/kantarcise/Ultrawide-Band-Antenna-Design/blob/master/Project.pdf) contains the report.
 
-The project file for HFSS can be found [here.]()
+The project file for HFSS can be found [here.](https://github.com/kantarcise/Ultrawide-Band-Antenna-Design/blob/master/TermProject.hfss)
 
 HFSS is fun, just a bit scary to learn at first =)
 
