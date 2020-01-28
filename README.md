@@ -11,7 +11,7 @@ The [pdf file](https://github.com/kantarcise/Ultrawide-Band-Antenna-Design/blob/
 
 The project file for HFSS can be found [here.](https://github.com/kantarcise/Ultrawide-Band-Antenna-Design/blob/master/TermProject.hfss)
 
-HFSS is fun, just a bit scary to learn at first =) { Youtube is your biggest friend here. [Example 1](https://www.youtube.com/watch?v=dK16nBUjlMw) , [Example 2]() }
+HFSS is fun, just a bit scary to learn at first =) { Youtube is your biggest friend here. [Example 1](https://www.youtube.com/watch?v=dK16nBUjlMw) , [Example 2](https://www.youtube.com/watch?v=jPrK68hDL5c) }
 
 
 ## Introduction
