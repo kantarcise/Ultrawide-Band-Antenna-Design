@@ -22,11 +22,15 @@ First off all, the reference design was [this paper from IJRTE.](https://www.ijr
 This design claimed a simulation for a dual band patch antenna, with a kinda basic geometry. Only 2 slots were taken out of the regular 
 patch shape, and a generic feeding line structure.
 
-But boy i was wrong.
+But boy i was wrong. 
 
+However, I tried to simulate the exact shape of the antenna (the design from the paper) and developed the project on HFSS initially.  
 
 ## Design
 
+HFSS 15.0 was the choice of software for the simulation. (Easy to access & use, a lot of tutorials on it.) A lossy material; FR4 is used as substrate on the antenna material.
+
+All the specific lengths and width on the design can be found on the report.
 
 ## Results and Future Work
 
