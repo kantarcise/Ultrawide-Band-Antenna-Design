@@ -30,7 +30,11 @@ However, I tried to simulate the exact shape of the antenna (the design from the
 
 HFSS 15.0 was the choice of software for the simulation. (Easy to access & use, a lot of tutorials on it.) A lossy material; FR4 is used as substrate on the antenna material.
 
-All the specific lengths and width on the design can be found on the report.
+All the specific lengths and width on the design can be found on the report. But the general look of it can be seen down below.
+
+<p align="center">
+  <img src="design.PNG">
+</p>
 
 ## Results and Future Work
 
